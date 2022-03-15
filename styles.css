@@ -1,0 +1,126 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+   
+}
+
+a {
+
+    text-decoration: none;
+}
+
+.logo {
+    display: block;
+    margin: 195px auto 122px auto;
+}
+
+input {
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    border: none;
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+input::placeholder {
+    padding-left: 19px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #969696;
+}
+
+.inputPw {
+    margin-top: 21px;
+}
+
+.forgotPassword{
+
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+color: #000000;
+margin: 35px 0 38px 0px;
+display: block;
+text-align: right;
+margin-right: 30px;
+
+}
+
+button{
+    display: block;
+    width: 133px;
+    height: 46px;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0 auto 21px auto;
+}
+
+.linkSignUp {
+    display: block;
+    text-align: center;
+    margin-bottom: 62px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #969696;
+
+}
+
+
+strong {
+    color: #323232;
+
+}
+
+.or-parag{
+    display: block;
+    margin: 0 auto 0 auto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+
+}
+/*
+.iconGoogle{
+    display: inline;
+    margin: 20px 16.5px 82px 134px;
+    
+}
+*/
+.iconFlicker{
+    
+    display: inline;
+    margin: 0px 16.5px 0px 16.5px;
+}
+
+/*
+.iconFace{
+    display: inline;
+    margin: 22px 135px 80px 16.5px;
+}
+*/
+
+.icons{
+    text-align: center;
+    margin: 18px auto 80px auto;
+    
+}
